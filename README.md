@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-- 🌱 I’m currently working on **fullstack web, mobile, and desktop applications**, focusing on scalable, robust solutions and management systems.
+- 🌱 I’m currently working on **fullstack web, mobile, desktop applications, and DATA ANALYSIS**, focusing on scalable, robust solutions and management systems.
 - 👯 I’m looking to collaborate on **open source, innovative SaaS projects, desktop apps, and cross-platform mobile apps**.
 - 💬 Ask me about **TypeScript, Dart, PHP (Laravel), React, Node.js, Flutter, Linux, PostgreSQL, MySQL, API design, or building management systems**.
 - 📫 How to reach me: **mstfmyg256@gmail.com** | **WhatsApp: +256776003035**
