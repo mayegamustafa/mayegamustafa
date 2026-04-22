@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 ## 🧑‍💻 Tech Stack & Tools
 
 **Languages:**  
- PHP (Laravel) · C# · .NET · C++ · HTML · SQL · TypeScript · Node · Dart · JavaScript
+ PHP (Laravel) · C# · .NET · C++ · HTML · SQL · TypeScript · React · Dart · JavaScript
 
 **Frameworks & Libraries:**  
 Laravel · React · Node.js · Flutter · Express.js
