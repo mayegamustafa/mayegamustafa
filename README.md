@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 ## 🧑‍💻 Tech Stack & Tools
 
 **Languages:**  
- PHP (Laravel) · C# · .NET · C++ · HTML · SQL · TypeScript · Dart · JavaScript
+ PHP (Laravel) · C# · .NET · C++ · HTML · SQL · TypeScript · Node · Dart · JavaScript
 
 **Frameworks & Libraries:**  
 Laravel · React · Node.js · Flutter · Express.js
@@ -64,7 +64,7 @@ Fullstack & API Development · Desktop Apps · Management Systems · Cross-platf
 |---------------------|-----------------------------------------------|---------------------|------|
 | gms-report          | Reporting/analytics dashboards                | TypeScript, Node.js | [View Repo](https://github.com/mayegamustafa/gms-report) |
 | sak-staff           | Staff management system                       | TypeScript, Node.js | [View Repo](https://github.com/mayegamustafa/sak-staff) |
-| musmus              | Music app demo                                | Dart, Flutter       | [View Repo](https://github.com/mayegamustafa/musmus) |
+| musmus              | Delivery app demo                                | Dart, Flutter       | [View Repo](https://github.com/mayegamustafa/musmus) |
 | may                 | Experimental Flutter desktop app              | Dart, Flutter       | [View Repo](https://github.com/mayegamustafa/may) |
 | scorecard           | Scorecard API                                 | ASP.NET, C#         | [View Repo](https://github.com/mayegamustafa/scorecard) |
 | ...                 | ... See more on my [repositories page](https://github.com/mayegamustafa?tab=repositories)   |                     |      |
