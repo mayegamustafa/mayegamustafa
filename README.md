@@ -1,20 +1,20 @@
-# Hi there, I'm Mustafa 👋
+# Hi there, I'm Mustafa 
 
 Welcome to my GitHub profile!
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🌱 I’m currently working on **fullstack web, mobile, desktop applications, and DATA ANALYSIS**, focusing on scalable, robust solutions and management systems.
-- 👯 I’m looking to collaborate on **open source, innovative SaaS projects, desktop apps, and cross-platform mobile apps**.
-- 💬 Ask me about **TypeScript, Dart, PHP (Laravel), React, Node.js, Flutter, Linux, PostgreSQL, MySQL, API design, or building management systems**.
-- 📫 How to reach me: **mstfmyg256@gmail.com** | **WhatsApp: +256776003035**
-- ⚡ Fun fact: Besides coding, I enjoy **brainstorming creative solutions, gaming, and watching football**!
+-  I’m currently working on **fullstack web, mobile, desktop applications, and DATA ANALYSIS**, focusing on scalable, robust solutions and management systems.
+-  I’m looking to collaborate on **open source, innovative SaaS projects, desktop apps, and cross-platform mobile apps**.
+-  Ask me about **TypeScript, Dart, PHP (Laravel), React, Node.js, Flutter, Linux, PostgreSQL, MySQL, API design, or building management systems**.
+-  How to reach me: **mstfmyg256@gmail.com** | **WhatsApp: +256776003035**
+-  Fun fact: Besides coding, I enjoy **brainstorming creative solutions, gaming, and watching football**!
 
 ---
 
-## 🧑‍💻 Tech Stack & Tools
+##  Tech Stack & Tools
 
 **Languages:**  
  PHP (Laravel) · C# · .NET · C++ · HTML · SQL · TypeScript · React · Dart · JavaScript
@@ -33,7 +33,7 @@ Fullstack & API Development · Desktop Apps · Management Systems · Cross-platf
 
 ---
 
-## 📊 My GitHub Stats
+##  My GitHub Stats
 
 ![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayegamustafa&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayegamustafa&layout=compact&theme=radical)
@@ -58,7 +58,7 @@ Fullstack & API Development · Desktop Apps · Management Systems · Cross-platf
 
 ---
 
-## 📝 Latest Projects
+##  Latest Projects
 
 | Project Name        | Description                                   | Tech/Platform       | Link |
 |---------------------|-----------------------------------------------|---------------------|------|
@@ -71,7 +71,7 @@ Fullstack & API Development · Desktop Apps · Management Systems · Cross-platf
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mayega-idris-83204332a/])
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:mstfmyg256@gmail.com)
@@ -80,4 +80,4 @@ Fullstack & API Development · Desktop Apps · Management Systems · Cross-platf
 
 ---
 
-<p align="center"><em>Thanks for visiting! 🚀</em></p>
+<p align="center"><em>Thanks for visiting! </em></p>
