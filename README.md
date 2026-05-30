@@ -40,7 +40,7 @@ Fullstack & API Development · Desktop Apps · Management Systems · Cross-platf
 
 ---
 
-## 🛠️ Languages, Frameworks & Platforms In My Projects
+##  Languages, Frameworks & Platforms In My Projects
 
 - **TypeScript**  
   *e.g. [gms-report](https://github.com/mayegamustafa/gms-report), [sak-staff](https://github.com/mayegamustafa/sak-staff), [metric-sak](https://github.com/mayegamustafa/metric-sak), [netric](https://github.com/mayegamustafa/netric)*
